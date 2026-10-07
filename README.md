@@ -2,7 +2,7 @@
 
 **Draft polished game-mod pages offline.** Fill in a simple form, preview the result live, then copy or download Steam BBCode or Markdown. Drafts stay in your browser unless you export them yourself.
 
-**[Open the live app](https://ghostnever-lkm.github.io/workshop-page-studio/)** · [Download for offline use](index.html)
+**[Open the live app](https://ghostnever-lkm.github.io/workshop-page-studio/)** · [Download v0.1.0 for offline use](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.1.0.zip) · [Browse source files](index.html)
 
 Workshop Page Studio is a free, static web app for mod authors. It has no account, backend, analytics, external fonts, or third-party scripts.
 
