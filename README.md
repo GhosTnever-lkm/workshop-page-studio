@@ -2,7 +2,7 @@
 
 **Draft polished game-mod pages offline.** Fill in a simple form, preview the result live, then copy or download Steam BBCode or Markdown. Drafts stay in your browser unless you export them yourself.
 
-**[Open the live app](https://ghostnever-lkm.github.io/workshop-page-studio/)** · [Download v0.1.0 for offline use](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.1.0.zip) · [Browse source files](index.html)
+**[Open the live app](https://ghostnever-lkm.github.io/workshop-page-studio/)** · [Download v0.2.0 for offline use](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.2.0.zip) · [Browse source files](index.html)
 
 Workshop Page Studio is a free, static web app for mod authors. It has no account, backend, analytics, external fonts, or third-party scripts.
 
@@ -14,7 +14,7 @@ Workshop Page Studio is a free, static web app for mod authors. It has no accoun
 - Structured fields for a mod summary, description, features, compatibility, installation, dependencies, languages, changelog, and links.
 - Live preview and character count. Counts are informational; platform limits can change.
 - Export as Steam BBCode or Markdown, copy to clipboard, or download a text file.
-- Save a draft as JSON and load it later on your device.
+- Save a draft as JSON and load it later on your device. Draft files up to 5 MiB are accepted.
 - Responsive layout and keyboard-accessible controls.
 
 ## Use it
@@ -32,7 +32,7 @@ The app has no network code. Your draft remains in the page until you export it 
 
 ## Limits
 
-The exporter provides common Steam-style BBCode and standard Markdown. It does not submit content to Steam, validate platform-specific policy, reserve a workshop title, or guarantee that every target platform accepts every formatting tag. Review the output on the destination site before publishing.
+The exporter provides common Steam-style BBCode and standard Markdown. Links are made clickable only for `http` and `https` URLs; other schemes are kept as plain text. It does not submit content to Steam, validate platform-specific policy, reserve a workshop title, or guarantee that every target platform accepts every formatting tag. Review the output on the destination site before publishing.
 
 ## Support / Pro Version
 
