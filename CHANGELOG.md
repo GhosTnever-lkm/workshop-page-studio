@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1 - 2026-10-11
+
+- Add dependency-free static checks for duplicate IDs, fragment links, and inline JavaScript syntax.
+- Add CI to run those checks on pushes and pull requests.
+- Refresh the offline download link.
+
 ## 0.2.0 - 2026-10-08
 
 - Reject empty or unrelated JSON files instead of reporting them as loaded drafts.
