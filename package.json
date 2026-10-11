@@ -1,9 +1,10 @@
 {
   "name": "workshop-page-studio",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node scripts/check-static-site.mjs"
+    "check": "node scripts/check-static-site.mjs && npm test",
+    "test": "node --test tests/*.test.mjs"
   }
 }
