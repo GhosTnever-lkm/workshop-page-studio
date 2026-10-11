@@ -42,7 +42,7 @@ Requires Node.js 20 or newer:
 npm run check
 ```
 
-The check validates unique element IDs, fragment links, and inline JavaScript syntax without external dependencies.
+The check validates unique element IDs, fragment links, and inline JavaScript syntax without external dependencies. `npm test` additionally runs 11 unit tests against the real inline script (BBCode/Markdown export, link safety, draft validation).
 
 ## Support / Pro Version
 
