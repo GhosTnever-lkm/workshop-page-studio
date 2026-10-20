@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add a screenshot of the live editor and preview to the README.
+
 ## 0.2.2 - 2026-10-11
 
 - Add unit tests (node:test, 11 cases) for the export logic: BBCode and Markdown generation, link safety (only clean http/https), text escaping, slug and draft validation. The tests evaluate the real inline script from index.html, so the single-file offline design stays unchanged.
