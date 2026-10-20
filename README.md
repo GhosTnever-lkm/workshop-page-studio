@@ -8,6 +8,10 @@ Workshop Page Studio is a free, static web app for mod authors. It has no accoun
 
 ![Workshop Page Studio flow: enter details, preview, export](assets/workflow.svg)
 
+The live demo with its built-in example loaded:
+
+[![Workshop Page Studio editor and live preview](assets/workshop-page-studio-preview.png)](https://ghostnever-lkm.github.io/workshop-page-studio/)
+
 ## Features
 
 - Russian and English interface.
